@@ -1,0 +1,6 @@
+jupyter-book
+jupyterlab
+matplotlib
+numpy
+pandas
+myst-parser
