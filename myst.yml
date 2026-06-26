@@ -11,6 +11,7 @@ project:
     toc:
         - file: intro.md
         - file: 1-introduction/introduction.ipynb
+        - file: 1-introduction/database.ipynb
         - file: 2-SQL-intro/sql.ipynb
     
 site:
