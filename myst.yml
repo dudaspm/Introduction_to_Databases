@@ -8,6 +8,8 @@ project:
     # authors: []
     github: https://github.com/dudaspm/Introduction_to_Databases
     # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+    jupyter:
+        lite: true
     toc:
         - file: intro.md
         - file: 1-introduction/introduction.ipynb
@@ -18,4 +20,4 @@ site:
     template: book-theme
     options:
         favicon: favicon.ico
-        #   logo: site_logo.png
+        #   logo: site_logo.png    
