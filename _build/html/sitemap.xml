@@ -8,6 +8,9 @@
     <loc>http://localhost:3001/introduction</loc>
   </url>
   <url>
+    <loc>http://localhost:3001/database</loc>
+  </url>
+  <url>
     <loc>http://localhost:3001/sql</loc>
   </url>
 </urlset>
