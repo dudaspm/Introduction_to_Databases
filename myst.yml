@@ -4,7 +4,7 @@ project:
     id: c09603a8-7dac-4ae9-85a4-6b07a69f24ff
     title: Introduction to Databases
     # description:
-    keywords: [sql,jupyter,sqli]
+    keywords: [sql,jupyter,sql]
     # authors: []
     github: https://github.com/dudaspm/Introduction_to_Databases
     # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
