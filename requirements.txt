@@ -1,7 +1,2 @@
-jupyter-book
-jupyterlab
-matplotlib
-numpy
-pandas
 ipython-sql
 sqlalchemy
