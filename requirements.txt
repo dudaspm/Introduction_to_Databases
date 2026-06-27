@@ -1,2 +1,2 @@
-ipython-sql
-sqlalchemy
+jupyter-book==2.1.5
+jupyterlite==0.7.6
